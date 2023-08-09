@@ -1,0 +1,4 @@
+/home/tree/code/fluka/codeIn23/generateMaterialCard/build/CMakeFiles/FLUKAMaterial.dir
+/home/tree/code/fluka/codeIn23/generateMaterialCard/build/CMakeFiles/edit_cache.dir
+/home/tree/code/fluka/codeIn23/generateMaterialCard/build/CMakeFiles/rebuild_cache.dir
+/home/tree/code/fluka/codeIn23/generateMaterialCard/build/CMakeFiles/FLUKAMaterial_autogen.dir

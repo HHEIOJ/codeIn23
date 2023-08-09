@@ -11,7 +11,7 @@ Material::Material()
 void Material::print()const
 {
     using namespace std;
-    cout<<"* %%%"<<name<<endl; // comment line
+    cout<<"* ^^^"<<name<<endl; // comment line
     printf("MATERIAL%32f%38s\n", density,name.c_str());
     int elementN=elementIndex.size();
     int quotient=elementN/3;
@@ -103,6 +103,7 @@ void Material::print()const
     elementMap.insert(pair<int,string>(20,"CALCIUM" ));
     elementMap.insert(pair<int,string>(26,"IRON" ));
     elementMap.insert(pair<int,string>(30,"ZINC" ));
+    elementMap.insert(pair<int,string>(53,"IODINE" ));
     return elementMap;
 }
 

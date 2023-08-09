@@ -1,15 +1,18 @@
-Air inside body
+air
+Rlung
+RLN10
 Lung
-Breast, adipose tissue
-Medullary cavity
-Breast, glandular tissue
-Stomach wall
+Muscle-air interface
+Adipose1
+Adipose2
+Adipose3
+Water
+Breast
 Brain
+Muscle
 Liver
-Ribs, spongiosa
-Mandible, spongiosa
-Ribs
-Cranium
-bone
-Cortical bone
-Teeth
+Cartilage
+soft_bone
+hard_bone
+Cortical-bone
+teeth
