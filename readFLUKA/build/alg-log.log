@@ -1,0 +1,57 @@
+1695195823 INFO sub1 : ctor of logger
+1695195823 INFO sub1 : cflukadose.cpp:16 parse dosebin file:/home/tree/Fluka/NEUTRON/ShieldingDesign/floor/Iron/2cm/quanyu15_54.bnn 
+1695195823 INFO sub1 : cflukadose.cpp:25 read in:€ 
+1695195823 INFO sub1 : cflukadose.cpp:28 read in:     ***** Sum file *****       
+1695195823 INFO sub1 : cflukadose.cpp:31 read in: 
+1695195823 INFO sub1 : cflukadose.cpp:38 read in xstart:-100 
+1695195823 INFO sub1 : cflukadose.cpp:39 read in xend:1900 
+1695195823 INFO sub1 : cflukadose.cpp:42 read in xsize:200 
+1695195823 INFO sub1 : cflukadose.cpp:45 read in xstep:10 
+1695195823 INFO sub1 : cflukadose.cpp:54 read in ystart:-100 
+1695195823 INFO sub1 : cflukadose.cpp:55 read in yend:3100 
+1695195823 INFO sub1 : cflukadose.cpp:57 read in ysize:320 
+1695195823 INFO sub1 : cflukadose.cpp:60 read in ystep:10 
+1695195823 INFO sub1 : cflukadose.cpp:70 read in zstart:-900 
+1695195823 INFO sub1 : cflukadose.cpp:71 read in zend:1100 
+1695195823 INFO sub1 : cflukadose.cpp:73 read in zsize:200 
+1695195823 INFO sub1 : cflukadose.cpp:76 read in zstep:10 
+1695195823 INFO sub1 : cflukadose.cpp:83 total data size:12800000 
+1695195823 INFO sub1 : dtor of logger
+1695195824 INFO sub1 : ctor of logger
+1695195824 INFO sub1 : cflukadose.cpp:16 parse dosebin file:/home/tree/Fluka/NEUTRON/ShieldingDesign/floor/Iron/2cm/quanyu15_54.bnn 
+1695195824 INFO sub1 : cflukadose.cpp:25 read in:€ 
+1695195824 INFO sub1 : cflukadose.cpp:28 read in:     ***** Sum file *****       
+1695195824 INFO sub1 : cflukadose.cpp:31 read in: 
+1695195824 INFO sub1 : cflukadose.cpp:38 read in xstart:-100 
+1695195824 INFO sub1 : cflukadose.cpp:39 read in xend:1900 
+1695195824 INFO sub1 : cflukadose.cpp:42 read in xsize:200 
+1695195824 INFO sub1 : cflukadose.cpp:45 read in xstep:10 
+1695195824 INFO sub1 : cflukadose.cpp:54 read in ystart:-100 
+1695195824 INFO sub1 : cflukadose.cpp:55 read in yend:3100 
+1695195824 INFO sub1 : cflukadose.cpp:57 read in ysize:320 
+1695195824 INFO sub1 : cflukadose.cpp:60 read in ystep:10 
+1695195824 INFO sub1 : cflukadose.cpp:70 read in zstart:-900 
+1695195824 INFO sub1 : cflukadose.cpp:71 read in zend:1100 
+1695195824 INFO sub1 : cflukadose.cpp:73 read in zsize:200 
+1695195824 INFO sub1 : cflukadose.cpp:76 read in zstep:10 
+1695195824 INFO sub1 : cflukadose.cpp:83 total data size:12800000 
+1695195825 INFO sub1 : dtor of logger
+1695195828 INFO sub1 : ctor of logger
+1695195828 INFO sub1 : cflukadose.cpp:16 parse dosebin file:/home/tree/Fluka/NEUTRON/ShieldingDesign/floor/Iron/2cm/quanyu15_54.bnn 
+1695195828 INFO sub1 : cflukadose.cpp:25 read in:€ 
+1695195828 INFO sub1 : cflukadose.cpp:28 read in:     ***** Sum file *****       
+1695195828 INFO sub1 : cflukadose.cpp:31 read in: 
+1695195828 INFO sub1 : cflukadose.cpp:38 read in xstart:-100 
+1695195828 INFO sub1 : cflukadose.cpp:39 read in xend:1900 
+1695195828 INFO sub1 : cflukadose.cpp:42 read in xsize:200 
+1695195828 INFO sub1 : cflukadose.cpp:45 read in xstep:10 
+1695195828 INFO sub1 : cflukadose.cpp:54 read in ystart:-100 
+1695195828 INFO sub1 : cflukadose.cpp:55 read in yend:3100 
+1695195828 INFO sub1 : cflukadose.cpp:57 read in ysize:320 
+1695195828 INFO sub1 : cflukadose.cpp:60 read in ystep:10 
+1695195828 INFO sub1 : cflukadose.cpp:70 read in zstart:-900 
+1695195828 INFO sub1 : cflukadose.cpp:71 read in zend:1100 
+1695195828 INFO sub1 : cflukadose.cpp:73 read in zsize:200 
+1695195828 INFO sub1 : cflukadose.cpp:76 read in zstep:10 
+1695195828 INFO sub1 : cflukadose.cpp:83 total data size:12800000 
+1695195828 INFO sub1 : dtor of logger

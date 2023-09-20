@@ -1,0 +1,3 @@
+/home/tree/code/QtDemo/FDC_Dealing/readFLUKA/build/CMakeFiles/readFluka.dir
+/home/tree/code/QtDemo/FDC_Dealing/readFLUKA/build/CMakeFiles/edit_cache.dir
+/home/tree/code/QtDemo/FDC_Dealing/readFLUKA/build/CMakeFiles/rebuild_cache.dir
